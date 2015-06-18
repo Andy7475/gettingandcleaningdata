@@ -8,4 +8,4 @@ It will merge a number of datasets from this collection and create a tidy data s
 The variables are all means and standard deviations of a number of acceleration and angular velocity measurements collected during specific activities. A full description of the data can be found at:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
 
-
+The code is commented throughout to explain each step.
